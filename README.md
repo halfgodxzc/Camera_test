@@ -1,1 +1,0 @@
-# halfgodxzc.github.io
