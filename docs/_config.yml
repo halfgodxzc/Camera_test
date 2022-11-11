@@ -1,0 +1,14 @@
+title: Camera testing
+lang: en
+description: Test TE 40 camera
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
